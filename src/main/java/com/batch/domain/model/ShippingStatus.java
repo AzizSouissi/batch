@@ -1,6 +1,6 @@
 package com.batch.domain.model;
 
-import fr.platana.shipment.domain.enumeration.EventType;
+import com.batch.domain.enumeration.EventType;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
